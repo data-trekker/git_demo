@@ -1,6 +1,7 @@
 #Demo Git Repository
 
 This is the first line of doc
+This is the 2nd line of doc
 
 ##Ipsum below
 
